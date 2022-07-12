@@ -87,6 +87,8 @@ __IMPORTANTE__: No se permitirá utilizar librerías externas para aplicar estil
 - [ ] Express
 - [ ] Sequelize - Postgres
 
+// react-Router 
+
 #### Frontend
 
 Se debe desarrollar una aplicación de React/Redux que contenga las siguientes pantallas/rutas.
